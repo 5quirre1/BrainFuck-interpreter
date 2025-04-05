@@ -1,3 +1,5 @@
+-- not chatgpt trust
+
 local Swag = {}
 Swag.__index = Swag
 
